@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ubaid</h1>
 <h3 align="center">A passionate Computer Science student currently in my 3rd semester. I'm diving deep into the world of programming, algorithms, and software development.</h3>
 
-- 🌱 I’m currently learning **Java, Python and HTML.**
+- 🌱 I’m currently learning **Java, Python, HTML, CSS, Bootstrap and Java Script .**
 
-- 💬 Ask me about **Java, C and HTML.**
+- 💬 Ask me about **Java, C, HTML, and Bootstrap.**
 
 - 📫 How to reach me **ubaidmoahammad151@gmail.com**
 
