@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **Java, Python, HTML, CSS, Bootstrap and Java Script .**
 
-- 💬 Ask me about **Java, C, HTML, and Bootstrap.**
+- 💬 Ask me about **Java, C, HTML, CSS and Bootstrap.**
 
 - 📫 How to reach me **ubaidmoahammad151@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-ubaid-78a9002a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ubaid-78a9002a8" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mauhammad.ubaid?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mauhammad.ubaid?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-ubaid-2132a0312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ubaid-78a9002a8" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mauhammad.ubaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mauhammad.ubaid?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/mauhammadubaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauhammadubaid" height="30" width="40" /></a>
 </p>
 
